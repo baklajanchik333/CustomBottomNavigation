@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Custom Bottom Navigation</string>
+    <string name="about">Информация</string>
+    <string name="home">Дом</string>
+    <string name="notification">Уведомления</string>
+    <string name="toastClicked">Вы нажали </string>
+    <string name="toastReselected">Вы выбрали повторно </string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Custom Bottom Navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="about">About</string>
+    <string name="home">Home</string>
+    <string name="notification">Notification</string>
+    <string name="toastClicked">You Clicked </string>
+    <string name="toastReselected">You Reselected </string>
+</resources>
